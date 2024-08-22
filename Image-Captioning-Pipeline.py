@@ -3,9 +3,9 @@ import json
 import requests
 
 # OpenAI API Key
-api_key = "sk-proj-WIpQplHLRUX1npiRWK78T3BlbkFJxEgL8KY9XTMFT474BjJx"
+api_key = "YOUR_OPENAI_API_KEY"
 # Path to your image
-image_path = r"C:\Users\manee\EmoSet-118K-7\image\amusement\amusement_00000.jpg"
+image_path = "PATH_TO_IMAGE_FOLDER"
 
 
 # Function to encode the image
